@@ -1,0 +1,33 @@
+.game {
+  width: 40%;
+  border: 5px double red;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 5rem auto;
+  text-align: center;
+}
+
+.game input {
+  width: 100%;
+  padding: 10px 5px;
+  outline: none;
+  border: 1px solid gray;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.game button {
+  background-color: chocolate;
+  color: #fff;
+  border: 1px solid chocolate;
+  width: 100%;
+  padding: 5px 0;
+  border-radius: 5px;
+}
+
+#message {
+  opacity: 0;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+/*# sourceMappingURL=style.css.map */
